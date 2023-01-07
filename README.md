@@ -3,7 +3,7 @@
 My name is `Kotov Aleksandr`.
 
 - 🌱 I’m currently learning DevOps
-- 📫 Contact me <a href="vk.com/superhero86" target="_blank">VK.com</a>
+- 📫 Contact me <a href="http://vk.com/superhero86" target="_blank">VK.com</a>
 
 <!--
 **superhero86rus/superhero86rus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
